@@ -22,46 +22,27 @@ To understand how a digital project begins. You will move from a "Client Brief" 
 
 ---
 
-## 💻 Task 2: The Structure (HTML)
-Now, translate your Figma design into code using **HTML semantics**.
-
-1. **Open [vscode.dev](https://vscode.dev).**
-2. **Create a new file** named `index.html`.
-3. **Write the boilerplate:** Type `!` and hit `Tab` (or paste the standard HTML5 structure).
-4. **Code your structure:**
-   - Use `<header>` for the title.
-   - Use `<main>` for the content.
-   - Use `<ul>` and `<li>` for the menu list.
-   - Use `<footer>` for the address.
-
-**Example Snippet:**
-```html
-<header>
-    <h1>Erasmus Brew</h1>
-</header>
-<main>
-    <section>
-        <h2>About Us</h2>
-        <p>The best coffee for Erasmus students in the city!</p>
-    </section>
-</main>
-```
-
----
-
 ## 🏁 Expected Results
 By the end of the seminar, your project should look like this (conceptually):
 
 ### 1. The Wireframe (Figma)
-Your Figma canvas should have a clear vertical layout optimized for a mobile screen. 
+Your Figma canvas should have a clear vertical layout optimized for a mobile screen.
 
-
-### 2. The Code (HTML)
-Your `index.html` should look structured in the editor. Even though it won't have colors or images yet, the "skeleton" should be visible in the browser preview.
-
-### 3. The File Structure
+### 2. The File Structure
 Your GitHub folder for this week should look like this:
 ```text
 /week-01/
-  ├── index.html
-  └── design-link.txt  (Optional: a file containing your Figma URL)
+  └── design-link.txt  (a file containing your Figma URL)
+
+```
+
+### 3. Course Registration (Pull Request)
+To officially register your project in the course, you must add your details to the central repository.
+
+1.  **Fork the repo:** Go to [OverLordYOLO/2026-ls-web-and-mobile-applications](https://github.com/OverLordYOLO/2026-ls-web-and-mobile-applications) and click the **"Fork"** button in the top right.
+2.  **Modify the file:** In your forked version, open the `student_repositories.md` file located in the root folder.
+3.  **Add your info:** Edit the file to add your Name and a link to your "Erasmus Brew" repository.
+4.  **Create a Pull Request:** - Go to the **"Pull Requests"** tab in your fork.
+    - Click **"New Pull Request"**.
+    - Ensure the "base repository" is `OverLordYOLO/2026-ls-web-and-mobile-applications`.
+    - Click **"Create Pull Request"** and title it: `Registration - [Your Name]`.
