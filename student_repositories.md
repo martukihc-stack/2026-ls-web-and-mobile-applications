@@ -2,6 +2,8 @@
 
 [Matěj Kohútek](https://github.com/OverLordYOLO/2026-ls-web-and-mobile-applications)
 
+[Noor Abdullah](https://github.com/noorzk1/peuniweb2026)
+
 [Mariia Klymenko](https://github.com/lover2026/peunimariia2026-)
 
 [Anel Kadyrgali](https://github.com/anelkadyrgali60-source/anel.kk___)
