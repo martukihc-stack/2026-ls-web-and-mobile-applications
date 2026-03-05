@@ -4,6 +4,8 @@
 
 [Alvaris Bashizov](https://github.com/Alvaris1/Web-and-Application-Alvaris)
 
+[Omelchenko Daria](https://github.com/preferdom/Web-and-mobile-application)
+
 [Mario Flores](https://github.com/mane-spec/Prueba)
 
 [Adil Salimzhan](https://github.com/adilsalimzhan01-rgb/webadok)
