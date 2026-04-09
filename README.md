@@ -21,13 +21,13 @@ Welcome to the Mobile App & Web Development course. This course is designed to t
 
 | Week | Theme | Lecture Topic (20-30m) | Practical Task (1.75h Seminar) |
 | :--- | :--- | :--- | :--- |
-| **01** | **Foundations & UX** | Project Lifecycles & "Thumb-zone" UX | GitHub Onboarding + Figma Wireframing |
-| **02** | **The Skeleton** | Semantic HTML5 & Document Structure | Translating Figma to `index.html` (Erasmus Brew) |
-| **03** | **The Skin (CSS)** | Flexbox, Grid, & Mobile-First Design | Styling the Landing Page with Responsive CSS |
-| **04** | **Interactivity** | Intro to JS & Alpine.js Logic | Adding Toggles (Mobile Menu) & Tabbed Menu |
-| **05** | **The Engine (Astro)** | Component-based Architecture & SSG | Migrating HTML/CSS to Astro Components |
-| **06** | **Infrastructure** | DNS, HTTP Headers, & Status Codes | "Inspect Element" Lab + Deploying to GH Pages |
-| **07** | **State & Logic** | Reactive Data & Local Storage | Building a "Coffee Counter" with Alpine.js |
+| **01** | **Foundations & UX** | Project Lifecycles & "Thumb-zone" UX | Figma Wireframing + GitHub PR Registration |
+| **02** | **The Skeleton** | Semantic HTML5 & Document Structure | Translating Figma to `index.html` in Codespaces |
+| **03** | **The Skin (CSS)** | Mobile-First CSS, Box Model & Flexbox | Styling with External CSS, Variables & Mobile-First Rules |
+| **04** | **WordPress & Security** | CMS Platforms, Security & Basic SEO | Launching WordPress on Pantheon + Wordfence + RankMath SEO |
+| **05** | **Analytics & GDPR** | Google Tag Manager, GA4 & GDPR Compliance | GTM Setup + GA4 Conversion Tracking + Cookie Consent Banner |
+| **06** | **AI & UI Design** | AI-Augmented Design: LLMs, UI Generators & Image AI | AI Brand Persona + UI Redesign + AI-Generated Assets |
+| **07** | **Lead Generation & Performance** | Lead Magnets, GDPR Forms & Lighthouse Audits | WPForms Loyalty Club + Lighthouse Audit & WebP Optimization |
 | **08** | **Backend (Redis)** | NoSQL & Serverless Data (Upstash) | Global "Visit Counter" using Redis & Fetch API |
 | **09** | **External APIs** | JSON, REST, & Asynchronous JS | Fetching Live Data (e.g., Weather or Coffee Quotes) |
 | **10** | **DevOps & CI/CD** | Automated Workflows & Environments | Setting up Netlify CI/CD + GitHub Actions |
