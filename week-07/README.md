@@ -23,6 +23,7 @@ A professional site talks back to its users instantly.
     - *Example:* "Welcome to the Brew Crew! Your 2-for-1 coffee voucher is being roasted and will arrive in your inbox shortly."
 2.  **Notifications:** Ensure the "Admin Email" is set to your email so you get a notification every time a student signs up.
 
+> [!IMPORTANT]
 > This task is possible only if you have your own domain
 
 ---

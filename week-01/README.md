@@ -18,7 +18,8 @@ To understand how a digital project begins. You will move from a "Client Brief" 
    - A **"Menu"** list (Coffee, Tea, Cake).
    - A **"Find Us"** footer with an address.
 
-> **Tip:** Keep it simple! Use only grey boxes, circles, and basic text. We are focusing on *layout*, not pretty colors yet.
+> [!TIP]
+> Keep it simple! Use only grey boxes, circles, and basic text. We are focusing on *layout*, not pretty colors yet.
 
 ---
 

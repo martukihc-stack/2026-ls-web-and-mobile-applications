@@ -3,7 +3,8 @@
 ## 🎯 Objective
 Today, you will build the "Bridges" to your website. You will ensure that when someone finds you on Google or shares your link in a group chat, your brand looks professional, trustworthy, and inviting.
 
-> **⚠️ Pantheon Note:** Because our sites are in "Sandbox" mode, external bots (like Facebook or Google) cannot see them yet. We will use **In-Browser Simulators** to test our work today.
+> [!WARNING] 
+> **Pantheon Note:** Because our sites are in "Sandbox" mode, external bots (like Facebook or Google) cannot see them yet. We will use **In-Browser Simulators** to test our work today.
 
 ---
 
