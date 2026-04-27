@@ -24,4 +24,4 @@
 
 [Serkan Sefil](https://github.com/serkansefil/2026-Study-Consultant)
 
-[Marta Hernández Navarro](https://github.com/martukihc-stack/erasmus-brew)
+[Marta Hernández Navarro](https://github.com/martukihc-stack/2026-ls-web-and-mobile-applications)
