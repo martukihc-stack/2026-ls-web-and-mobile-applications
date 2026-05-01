@@ -1,3 +1,3 @@
 GTM ID: GTM-WNF3SL46
 GA4 Measurement ID: G-84K43KW3F8
-A description of the one conversion you set up (e.g., "I am tracking clicks on the Contact button").
+I am tracking page views for the 'Our Story' page.
