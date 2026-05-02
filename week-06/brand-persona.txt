@@ -1,1 +1,36 @@
+Brand Persona for Erasmus Brew / MCoFFee
 
+Brand Name:
+Erasmus Brew
+
+Current Website Context:
+The existing website presents MCoFFee as a local coffee shop dedicated to students, with a cozy environment for studying and a simple menu including coffee, tea, and cake. The Week 06 redesign keeps this student-focused concept but makes it more professional, warm, and international.
+
+Personality / Tone:
+Erasmus Brew has a warm, social, and international personality. The tone is friendly, welcoming, and slightly playful, designed for Erasmus students, travelers, and young coffee lovers who want a cozy place to meet, study, and relax. The brand feels modern but cozy, combining student life, coffee culture, and the feeling of discovering a new city.
+
+Brand Style:
+Vintage & Cozy with a modern student-friendly touch.
+
+Color Palette:
+1. Espresso Brown - #3B1F0A
+   Used for headings, navigation, footer, and strong brand elements. This color keeps continuity with the original website style.
+
+2. Cream Background - #F5F0E8
+   Used as the main background color to create a soft, warm, café-inspired feeling. This also keeps continuity with the original website.
+
+3. Erasmus Teal - #2A9D8F
+   Used for buttons, links, highlights, cards, and interactive elements. It adds a fresh international/student feeling to the warm coffee palette.
+
+Typography Suggestions:
+1. Playfair Display
+   Best for headings and hero titles. It gives the website a stylish and elegant café feeling.
+
+2. Poppins
+   Best for body text, buttons, menu items, and navigation. It is clean, modern, and easy to read on mobile.
+
+3. Optional Alternative: Lora
+   A good choice for subtitles or short descriptive sections if a softer editorial style is desired.
+
+Marketing Pitch:
+Erasmus Brew is a cozy coffee spot where students, travelers, and locals can meet, study, and share stories over great coffee. With a warm atmosphere, international energy, and student-friendly menu, Erasmus Brew turns every visit into a small cultural experience.
