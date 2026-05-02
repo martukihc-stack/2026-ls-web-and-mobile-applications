@@ -1,0 +1,40 @@
+1. PERSONA GENERATION PROMPT:
+
+Create a professional brand persona for a coffee shop website called "Erasmus Brew". The website is currently a student-focused coffee shop called "MCoFFee" with a simple menu including coffee, tea, and cake. The brand is aimed at Erasmus students, international travelers, and young coffee lovers who want a cozy place to meet, study, and socialize. Please include:
+- Personality and tone
+- A 3-color palette with HEX codes
+- Typography suggestions using Google Fonts
+- A 2-sentence marketing pitch
+Keep the style warm, cozy, student-friendly, and slightly international.
+
+
+2. UI GENERATION PROMPT:
+
+Design a mobile UI for the Home page of a coffee shop website called "Erasmus Brew".
+
+Use this brand persona:
+Erasmus Brew has a warm, social, and international personality. The tone is friendly, welcoming, and slightly playful. The visual style should be Vintage & Cozy with a modern student-friendly touch.
+
+Use this color palette:
+- Espresso Brown: #3B1F0A
+- Cream Background: #F5F0E8
+- Erasmus Teal: #2A9D8F
+
+Use these typography suggestions:
+- Playfair Display for headings
+- Poppins for body text, buttons, and navigation
+
+The mobile page should include:
+- A warm hero section with a large coffee image
+- A strong headline: "Your cozy coffee stop in Prague"
+- Short marketing text for Erasmus students and travelers
+- A clear call-to-action button: "Explore Our Menu"
+- A small About section focused on students, studying, and meeting friends
+- A featured menu section with Coffee, Tea, and Cake
+- The location: U Pruhonu 1099/56, Praha 7-Holešovice, Prague, Czech Republic
+- Rounded cards, comfortable spacing, warm colors, and a professional mobile layout
+
+
+3. IMAGE GENERATION PROMPT:
+
+Generate a high-quality hero image for a coffee shop website called "Erasmus Brew". The image should show a cozy café table with specialty coffee, tea, a slice of cake, books, and subtle Erasmus/international student travel elements such as a map, postcards, or a laptop. The style should be warm, vintage, cozy, and modern, with soft natural lighting. Use a color mood inspired by espresso brown, cream background, and teal accents. The image should look professional and suitable for the homepage hero section of a mobile coffee shop website. No text or logos in the image.
