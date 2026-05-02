@@ -1,1 +1,22 @@
+Student: Hernández Navarro, Marta
+
+1. Value Exchange
+To encourage "Erasmus Brew" users to share their data, I have offered a Lead Magnet consisting of an exclusive PDF titled "19 Coffee Recipes for Coffee Lovers." This content provides immediate value to the student, positioning the brand as an expert in coffee culture and creating a bond of gratitude before their first physical visit.
+
+2. Data Minimization
+The fields selected in the WPForms form are:
+
+- Name: Necessary to personalize future automated communications and build trust.
+- Email: The primary channel for sending the Lead Magnet (PDF) and future loyalty campaigns.
+- University (Dropdown): A strategic field to segment promotions by campus (e.g., Charles University, CTU, VSE) and optimize logistics for local events or pop-up stores.
+- GDPR Checkbox: Mandatory to ensure that consent for data processing and advertising is explicit and legal.
+
+3. Audit Results (Lighthouse)
+- Initial Performance Scores: 
+    - Performance: 68/100
+    - Accessibility: 93/100
+    - Best Practices: 73/100
+    - SEO: 69/100
+- Main Offender Identified: The slowest element detected by Lighthouse was the main hero image in high-resolution .jpg format.
+- Optimization Action: Heavy images were downloaded, converted to WebP format (more efficient), and compressed before being re-uploaded to WordPress to improve mobile loading speed.
 
