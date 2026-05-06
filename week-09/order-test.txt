@@ -1,1 +1,4 @@
-
+1. To get from the home page to completing the online order, the user must perform 5 clicks.
+2. My variable product is a specialty cafe latte where you can choose between 3 different 
+types of milk: cow, soy, or oat.
+3. There is now one less unit of the product in stock
