@@ -23,3 +23,5 @@
 [Sherzod Ulashev](https://github.com/sherzoddd06-debug/Sherzod)
 
 [Serkan Sefil](https://github.com/serkansefil/2026-Study-Consultant)
+
+[Yunus Deniz Odabas](https://github.com/denizodabas/Deniz-Aircraft-Sale2)
